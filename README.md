@@ -12,4 +12,4 @@ https://priyaravi23.github.io/taskmaster-pro/
 
 *The following animation demonstrates the application functionality:*
 
-![](assets/images/mock-up.jpg)
+![](assets/images/mock-up.gif)
